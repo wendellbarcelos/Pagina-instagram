@@ -33,7 +33,7 @@ body {
 }
 
 .instagram-phone img {
-    height: 35rem;
+    min-height: 35rem;
 }
 
 .instagram-continue {
@@ -61,7 +61,7 @@ body {
 }
 
 .instagram-logo {
-    height: 3rem;
+    height: 4.5rem;
 }
 
 .profile-photo {
